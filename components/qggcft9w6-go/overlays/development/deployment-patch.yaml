@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-d9ljv.d9ljv.sandbox897.opentlc.com/tssc/rhtap-qe-go:jenkins-7f938d5e4b72575c4e8c49f6e0faa8dab4c6d72d
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-d9ljv.d9ljv.sandbox897.opentlc.com/tssc/rhtap-qe-go:jenkins-c7c44cc99f416a72454fbeb1d19cb83d30a52653
           name: container-image
